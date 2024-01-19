@@ -8,7 +8,7 @@
 <br/>
 
 ## 대표화면
-[배포서버](https://www.i1004902.com)
+[배포서버](https://www.i1004902.com/app1)
 <table>
   <tr>
     <td><b>메인 페이지</b></td>
@@ -110,7 +110,7 @@ Back-end API test
 
 ### ✔️ 배포 서버
 
-- www.i1004902.com
+- www.i1004902.com/app1
 
 ### ✔️ 프로젝트 기획 의도
 
@@ -380,7 +380,7 @@ function Maps({ stores, onMarkerClick, clickedStore, myLocation }) {
 - 관리자 페이지 백엔드 전체
 - 관리자 페이지 프론트,디자인 (해피밀,프로모션,새로운소식,메인,로그인)
 - 프로젝트 문서화 (back-end, ERD, 트러블 슈팅)
-- AWS EC2 활용하여 프로젝트 배포 (www.i1004902.com)
+- AWS EC2 활용하여 프로젝트 배포 (www.i1004902.com/app1)
 - NginX 리버스 프록시, https 적용
 - Node.js, React 폴더 구조 설계 (Controllers-Services-models 구조)
 - JWT accessToken, refreshToken과 Redis를 사용한 사용자 인증 구현
